@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Sam-T-G/Professional-README-Generator#readme",
   "dependencies": {
     "email-validator": "^2.0.4",
-    "inquirer": "^9.1.1"
+    "inquirer": "^8.2.4"
   }
 }
